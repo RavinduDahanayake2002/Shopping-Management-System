@@ -1,0 +1,2 @@
+E001,Waching Machine,50,52000.0,Singer,5
+C001,Shirt,40,2100.0,S,Black
